@@ -1,1 +1,1 @@
-# RAF
+This code creates an Event class with EventNumber and Location properties. It then instantiates an object of this class, serializes it to a JSON file, deserializes it back, and displays the values. Then, it writes the word "Hackathon" to the same file and reads the first, middle, and last characters from it, displaying them on the console as per the requirements.
